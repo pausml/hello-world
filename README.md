@@ -1,2 +1,2 @@
 # hello-world
-stuff
+First ever commit
